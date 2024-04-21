@@ -1,8 +1,1 @@
-# Yafashop
-# Yafashop
-# Yafashop
-# Yafashop
-# Yafashop
-# Yafashop
-# Yafashop
-# Yafashop
+This full-stack E-commerce website is being develop using React for building the fron end and Strapi-Io to develop the backend. 
