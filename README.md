@@ -2,4 +2,3 @@ This full-stack E-commerce website is being developed using React for building t
 
 
 
-Link to website: https://yafashop-f2dd0.web.app/
